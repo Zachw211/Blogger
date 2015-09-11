@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+#added sorcery to for user authentication
+gem 'sorcery'
+#added paperclip gem to handle images
 gem 'paperclip'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.3'
